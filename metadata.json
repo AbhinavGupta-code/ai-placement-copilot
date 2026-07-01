@@ -1,0 +1,8 @@
+{
+  "name": "AI Placement Copilot",
+  "description": "A retro-futuristic AI Career & Placement Copilot built with a glitch-cybernetic terminal interface to optimize resumes for ATS, execute cognitive interview simulations, map skill pathways, and locate gaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
